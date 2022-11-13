@@ -1,0 +1,19 @@
+{
+  "name": "fetch-hook",
+  "version": "1.0.0",
+  "description": "Inspired by ajax-hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthVaderrr/fetch-hook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarthVaderrr/fetch-hook/issues"
+  },
+  "homepage": "https://github.com/DarthVaderrr/fetch-hook#readme"
+}
