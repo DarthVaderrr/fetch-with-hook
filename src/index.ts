@@ -51,3 +51,5 @@ type RequestConfig = {
     window.fetch = nativeFetch;
   };
   
+
+  console.log(1)

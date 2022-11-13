@@ -1,0 +1,9 @@
+{
+    "--lib":["ES2015"],
+    "exclude": ["node_modules"],
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "module": "ES2015",
+        "sourceMap": true,
+    }
+}
