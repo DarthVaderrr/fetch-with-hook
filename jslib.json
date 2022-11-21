@@ -1,0 +1,11 @@
+{
+    "name": "fetch-with-hook",
+    "npmname": "fetch-with-hook",
+    "umdname": "fetch-with-hook",
+    "username": "DarthVaderrr",
+    "type": "ts",
+    "module": "umd,esm,commonjs",
+    "test": "mocha",
+    "lang": "zh",
+    "version": "1.6.0"
+}

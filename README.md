@@ -4,8 +4,6 @@
 [![Build Status](https://travis-ci.org/DarthVaderrr/fetch-with-hook.svg?branch=master)](https://travis-ci.org/DarthVaderrr/fetch-with-hook)
 [![Coveralls](https://img.shields.io/coveralls/DarthVaderrr/fetch-with-hook.svg)](https://coveralls.io/github/DarthVaderrr/fetch-with-hook)
 [![npm](https://img.shields.io/badge/npm-0.1.0-orange.svg)](https://www.npmjs.com/package/fetch-with-hook)
-[![NPM downloads](http://img.shields.io/npm/dm/fetch-with-hook.svg?style=flat-square)](http://www.npmtrends.com/fetch-with-hook)
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/DarthVaderrr/fetch-with-hook.svg)](http://isitmaintained.com/project/DarthVaderrr/fetch-with-hook "Percentage of issues still open")
 
 
 ## :star: 特性
