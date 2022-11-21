@@ -1,9 +1,14 @@
 {
-    "--lib":["ES2015"],
-    "exclude": ["node_modules"],
-    "include": ["src/**/*"],
     "compilerOptions": {
-        "module": "ES2015",
-        "sourceMap": true,
-    }
+        "target": "ES5",
+        "module": "commonjs",
+        "lib": ["ES2015", "DOM"]
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "**.d.ts"
+    ]
 }
